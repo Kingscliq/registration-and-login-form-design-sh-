@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
 .masthead {
-    height: 100vh;
-    min-height: 500px;
+    margin-top: 50px;
+    min-height: auto;
     background-image: url('https://source.unsplash.com/BtbjCFUvBXs/1920x1080');
     background-size: cover;
     background-position: center;
